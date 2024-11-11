@@ -1,0 +1,6 @@
+SaaS Ai Agent application for working with clients
+
+- Using OpenAI API for an LLM
+- Using Google Calendar API to check available times, set up appointments.
+- Integrate a pricing calculation
+ 
